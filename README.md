@@ -99,4 +99,4 @@ Refer to the [Wiki](https://github.com/BlcMed/site-allocation-solver/wiki) for d
 
 ## License
 
-This project is for educational and research purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
